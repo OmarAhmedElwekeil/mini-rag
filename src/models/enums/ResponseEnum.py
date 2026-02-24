@@ -7,3 +7,5 @@ class ResponseEnum(Enum):
     FILE_UPLOADING_FAILED = "File uploading failed"
     FILE_UPLOADED_SUCCESSFULLY = "File uploaded successfully"
     FILE_VALIDATED_SUCCESSFULLY = "File validated successfully"
+    FILE_PROCESSING_FAILED = "File processing failed"
+    FILE_PROCESSED_SUCCESSFULLY = "File processed successfully"
